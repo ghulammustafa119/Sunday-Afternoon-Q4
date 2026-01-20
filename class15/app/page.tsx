@@ -9,6 +9,8 @@ export default function Home() {
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-gray-800 mb-4">
             My <span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-600 to-purple-600">Blog</span>
+            {/* Hello Mustafa 🚀 */}
+            {/* WSL WATCH WORKING 🔥 */}
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Discover insights, tutorials, and stories from our team of passionate developers and designers.
